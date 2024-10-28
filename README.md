@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### NAME: B. DHANUSH KUMAR
+#### REG NO: 24900615
+### EXPERIMENT 1 - Study of basic gates
 
 **AIM:** 
 
@@ -63,17 +65,22 @@ Y= A⊕B
 
 
 **PROGRAM**
+![9abc9c99-d3fb-43ea-b2d5-083a83a53b76](https://github.com/user-attachments/assets/dd354b8d-9807-4a4c-a65d-a4d2d2a6432e)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+![0f4f4982-dae0-4871-866a-beb83da5fae3](https://github.com/user-attachments/assets/6208785d-d6a1-4db7-87a1-ceaf1a330b93)
+
 
 **RTL realization Output:** 
+![logic gates](https://github.com/user-attachments/assets/4f0a6561-9c86-49aa-b3b7-cc9de26d47ce)
 
-**RTL**
+**RTL** 
+![waveform](https://github.com/user-attachments/assets/a6eedc38-c5bc-40a1-87bb-16e73956ca5b)
 
 **Result:**
+
+Studied and verified the truth table of logic gates in Quartus II using Verilog programming.
+
 
 
