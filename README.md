@@ -69,10 +69,11 @@ Y= A⊕B
 
 
 # LOGIC SYMBOL & TRUTH TABLE
-![0f4f4982-dae0-4871-866a-beb83da5fae3](https://github.com/user-attachments/assets/6208785d-d6a1-4db7-87a1-ceaf1a330b93)
+
+![3383a4d6-0abc-498a-93a0-59eb74d3008d](https://github.com/user-attachments/assets/1df46315-df29-45f3-88ac-ca1f2ef0e713)
 
 
-# RTL REALIZATION OUTPUT: 
+# RTL REALIZATION OUTPUT
 ![logic gates](https://github.com/user-attachments/assets/753795f2-a2ad-45e0-9c7f-0c1fac7d2f2f)
 
 
