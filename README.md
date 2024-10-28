@@ -73,9 +73,10 @@ Y= A⊕B
 
 
 # RTL REALIZATION OUTPUT: 
-![logic gates](https://github.com/user-attachments/assets/4f0a6561-9c86-49aa-b3b7-cc9de26d47ce)
+![logic gates](https://github.com/user-attachments/assets/753795f2-a2ad-45e0-9c7f-0c1fac7d2f2f)
 
-# RTL 
+
+# WAVEFORM OUTPUT
 ![waveform](https://github.com/user-attachments/assets/a6eedc38-c5bc-40a1-87bb-16e73956ca5b)
 
 # RESULT:
