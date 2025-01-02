@@ -1,6 +1,6 @@
 ### NAME: B. DHANUSH KUMAR
 #### REG NO: 24900615
-### EXPERIMENT 1 - Study of basic gates
+# EXPERIMENT 1 - Study of basic gates
 
 # AIM:
 
